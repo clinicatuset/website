@@ -2,8 +2,8 @@
 title: Fertility and Gynecology
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
-heading: What we offer
+image: /img/mother-Raising-Baby.jpg
+heading: How we can help
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -38,12 +38,23 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: How we can help
+  description: >+
+    Tu fertilidad se refleja principalmente en  la calidad de tu ciclo
+    menstrual. Si padeces alguno de los siguientes síntomas, esto nos puede
+    indicar que tu fertilidad esta disminuida.
+
+
+    ¿Estas sufriendo de alguno de los siguientes síntomas ?:
+
+       - Ciclos menstruales irregulares
+       - Reglas cortas o hemorrágicas
+       - Reglas dolorosas
+       - Síntomas pre-menstruales fuertes (emocionales o físicos)
+       - Flujo de regla con coágulos
+       - Ovulación temprana o tardía
+       - Ausencia  de flujo elástico y transparente durante la ovulación
+
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,5 +110,6 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
